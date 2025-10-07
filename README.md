@@ -1,0 +1,1 @@
+A payroll system designed to calculate and process employee salaries in batches efficiently.
